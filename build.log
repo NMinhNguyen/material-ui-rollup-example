@@ -2,15 +2,5 @@ yarn run v1.3.2
 $ rollup -c
 
 src/index.js → index.js...
-[!] Error: 'BottomNavigationAction' is not exported by node_modules/material-ui/BottomNavigation/index.js
-https://github.com/rollup/rollup/wiki/Troubleshooting#name-is-not-exported-by-module
-node_modules/material-ui/index.es.js (9:38)
- 7: export { default as Avatar } from './Avatar';
- 8: export { default as Badge } from './Badge';
- 9: export { default as BottomNavigation, BottomNavigationAction } from './BottomNavigation';
-                                          ^
-10: export { default as Button } from './Button';
-11: export { default as ButtonBase } from './ButtonBase';
-
-error Command failed with exit code 1.
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+created index.js in 6s
+Done in 6.92s.

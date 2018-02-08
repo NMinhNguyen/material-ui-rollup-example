@@ -970,8 +970,8 @@ magic-string@^0.22.4:
     vlq "^0.2.1"
 
 material-ui@^1.0.0-beta.32:
-  version "1.0.0-beta.32"
-  resolved "https://registry.yarnpkg.com/material-ui/-/material-ui-1.0.0-beta.32.tgz#d9b5f52b8a978786e9b8217338a5ca35a75bf98e"
+  version "1.0.0-beta.36"
+  resolved "https://registry.yarnpkg.com/@minh.nguyen/material-ui/-/material-ui-1.0.0-beta.36.tgz#ad7b538daafca4f0b362920a64dc391abe97bcbe"
   dependencies:
     "@types/jss" "^9.3.0"
     "@types/react-transition-group" "^2.0.6"
